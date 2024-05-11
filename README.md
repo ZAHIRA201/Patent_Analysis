@@ -1,2 +1,31 @@
-# A Data pipeline of Patents Analysis from Pubmed &  GPA Using Apache Spark and Power BI
-by the 30/05
+# Data pipeline of Patents Analysis from Pubmed &  GPA Using Apache Spark and Power BI
+
+## Overview
+This project implements a data pipeline for analyzing patents sourced from PubMed and Google Patents (GPA). The pipeline utilizes Apache Spark for data processing and transformation and Power BI for visualization and analysis.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features and Uses](#features)
+- [Data Sources](#data-sources)
+- [Installation](#installation)
+
+
+
+## Introduction
+The Patent Analysis Data Pipeline is designed to extract, transform, and analyze patent data from PubMed and GPA. By leveraging the power of Apache Spark for distributed data processing and Power BI for interactive visualization, the pipeline enables users to gain insights into patent trends, technologies, and inventors.
+
+## Features and Uses
+- Data extraction from PubMed and Google Patents through a UI built with HTML, CSS and Js
+- Data cleaning and transformation using Apache Spark.
+- Integration with Power BI for dynamic visualization and analysis.
+- Explore patent trends, technologies, and inventors using Power BI's interactive dashboards.
+
+## Data Sources
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/): A free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics.
+- [Google Patents](https://patents.google.com/): A search engine from Google that indexes patents and patent applications from various jurisdictions around the world.
+
+## Installation
+1. Clone this repository to your local machine.
+2. Install Apache Spark following the instructions [here](https://spark.apache.org/downloads.html).
+3. Install Power BI Desktop from the [official website](https://powerbi.microsoft.com/en-us/desktop/).
+4. Install any necessary Python dependencies using pip:
