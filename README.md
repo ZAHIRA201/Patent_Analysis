@@ -1,4 +1,4 @@
-# Data pipeline of Patents Analysis from Pubmed &  GPA Using Apache Spark and Power BI
+# Data pipeline of Patents Analysis from Pubmed &  GPA Using  UI Inputs, Apache Spark and Power BI
 
 ## Overview
 This project implements a data pipeline for analyzing patents sourced from PubMed and Google Patents (GPA). The pipeline utilizes Apache Spark for data processing and transformation and Power BI for visualization and analysis.
