@@ -3,7 +3,7 @@
 ![DASH](https://github.com/ZAHIRA201/BigData_Patent_Analysis_ApacheSpark/assets/120922044/affe7713-7d84-4a44-b874-7cbcc2b54107)
 
 ## Overview
-This project implements a data pipeline for analyzing patents sourced from PubMed and Google Patents (GPA). The pipeline utilizes Apache Spark for data processing and transformation and Power BI for visualization and analysis.
+This project implements a data pipeline for analyzing Drone patents sourced from PubMed and Google Patents (GPA). The pipeline utilizes Apache Spark for data processing and transformation and Power BI for visualization and analysis.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -20,7 +20,7 @@ The Patent Analysis Data Pipeline is designed to extract, transform, and analyze
 - Data extraction from PubMed and Google Patents through a UI built with HTML, CSS and Js
 - Data cleaning and transformation using Apache Spark.
 - Integration with Power BI for dynamic visualization and analysis.
-- Explore patent trends, technologies, and inventors using Power BI's interactive dashboards.
+- Explore Drone patent trends, technologies, and inventors using Power BI's interactive dashboards.
 
 ## Data Sources
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/): A free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics.
