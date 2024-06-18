@@ -23,7 +23,7 @@ The Patent Analysis Data Pipeline is designed to extract, transform, and analyze
 - Integration with Power BI for dynamic visualization and analysis.
 - Explore Drone patent trends, technologies, and inventors using Power BI's interactive dashboards.
 
-![WORKFLOWDATA](https://github.com/ZAHIRA201/DataPipeline_PatentAnalysis_Sprak/assets/120922044/84953398-f374-47bf-b6c2-dd2ea0e0e5f3)
+    ![WORKFLOWDATA](https://github.com/ZAHIRA201/DataPipeline_PatentAnalysis_Sprak/assets/120922044/84953398-f374-47bf-b6c2-dd2ea0e0e5f3)
 
 
 ## Data Sources
